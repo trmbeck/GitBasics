@@ -1,4 +1,4 @@
-this is a test
+this is a ALL RIGHT
 this is my first test
 another line
 testing a method
