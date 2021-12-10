@@ -2,3 +2,4 @@ this is OK
 this is my first test
 another line
 testing a method
+this is a test
